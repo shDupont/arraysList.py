@@ -10,6 +10,7 @@ for i in range(5):
 alturas_inv = alturas[::-1]
 idades_inv = idades[::-1]
 
+
 print(idades)
 print(alturas)
 print(idades_inv)

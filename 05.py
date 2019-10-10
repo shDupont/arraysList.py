@@ -1,4 +1,5 @@
 import random
+
 array = []
 vetorPar = []
 vetorImpar = []
@@ -10,6 +11,7 @@ for i in range(19):
     vetorPar.append(count)
   else:
     vetorImpar.append(count)
+
 
 print(array)
 print(vetorPar)

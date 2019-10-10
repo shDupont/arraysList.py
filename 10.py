@@ -14,6 +14,7 @@ for x in range(10):
   arr_ay.append(array[x])
   arr_ay.append(arra_y[x])
 
+
 print(array)
 print(arra_y)
 print(arr_ay)

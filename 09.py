@@ -1,4 +1,5 @@
 import random
+
 a = []
 
 resultado = 0
@@ -10,4 +11,6 @@ for i in range(10):
   a.append(count)
   quadrado = count * count
   soma += quadrado
+
+  
 print(soma)
